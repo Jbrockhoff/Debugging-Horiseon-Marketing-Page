@@ -3,10 +3,10 @@
 ## Description
  This project worked to debug an existing website and improve formating
 
-- I needed to debug this website and reoder HTML and CSS to be more accessible.
-- It is extremely important to understand how to debug existing code in this field.
-- It helps make things more streamlined and easier to look at, therefore modify.
-- I learned how HTML and CSS really impact and work together to create the final form, and how to make sure any changes in HTML translates to CSS.
+- I wanted to debug this website and reorder HTML and CSS to be more accessible.
+- It is extremely important to understand how to debug existing code in this field in order to be successful.
+- It helps make things more streamlined and easier to decode, therefore it is more accessible.
+- I learned how HTML and CSS work together to create the final form, and how to make sure any changes in HTML is appropriately modified in CSS as needed.
 
 ## Installation
 
