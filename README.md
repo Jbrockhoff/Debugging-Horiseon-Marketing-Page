@@ -22,7 +22,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-Information on HTML and CSS obtained from w3schools.com
+Information on HTML and CSS obtained from w3schools.com.
 
 ## License
 
