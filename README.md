@@ -1,8 +1,7 @@
 # <02 Challenge>
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+ This project worked to debug an existing website and improve formating
 
 - I needed to debug this website and reoder HTML and CSS to be more accessible.
 - It is extremely important to understand how to debug existing code in this field.
