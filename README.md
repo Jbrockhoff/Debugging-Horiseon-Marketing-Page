@@ -10,7 +10,7 @@
 
 ## Installation
 
-N/A
+ N/A
 
 ## Usage
 This page is used as a tool to work on debugging HTML and CSS.
