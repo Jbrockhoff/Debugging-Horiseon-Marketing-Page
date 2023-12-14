@@ -1,7 +1,7 @@
-# <02 Challenge>
+# <Debugging Horiseon Marketing Page>
 
 ## Description
- This project worked to debug an existing website and improve formating
+ This project worked to debug an existing website and clean up HTML and CSS formatting in order to enhance accessibility.
 
 - I wanted to debug this website and reorder HTML and CSS to be more accessible.
 - It is extremely important to understand how to debug existing code in this field in order to be successful.
@@ -13,16 +13,14 @@
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+This page is used as a tool to work on debugging HTML and CSS.
+Here is a screenshot of the completed webpage:
 
 ![screenshot](assets/images/Screenshot.png)
 
 ## Credits
 
-Information on HTML and CSS obtained from w3schools.com.
+Information on HTML and CSS used to debug this wed page obtained from https://www.w3schools.com.
 
 ## License
 
@@ -48,13 +46,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ---
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
