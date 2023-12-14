@@ -10,11 +10,12 @@
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 This page is used as a tool to work on debugging HTML and CSS.
 Here is a screenshot of the completed webpage:
+[Debugging Horiseon Marketing Page-URL]()
 
 ![screenshot](assets/images/Screenshot.png)
 
