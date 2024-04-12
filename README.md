@@ -15,7 +15,7 @@
 ## Usage
 This page is used as a tool to work on debugging HTML and CSS.
 Here is a screenshot of the completed webpage:
-![screenshot](assets/images/Screenshot.png)
+![screenshot](./assets/images/Screenshot.png)
 
 [Here is a link to the deployed application](https://jbrockhoff.github.io/Debugging-Horiseon-Marketing-Page/)
 
